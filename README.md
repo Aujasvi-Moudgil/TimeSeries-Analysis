@@ -1,9 +1,9 @@
 # TimeSeries-Analysis using Python
 
-**Objective**: 
+**Objective (Covered in Notebooks)**: 
 
 1. What is time series data? 
-2. How to visualize time series data 
+2. How to visualize time series data ?
 3. How to analyze time series data ? 
 4. How to forecast time series data?  
 
